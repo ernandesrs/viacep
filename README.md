@@ -1,5 +1,5 @@
 # VIACEP
-Componente PHP para uso dos recursos da API ViaCEP. Projeto criado também para estudos de criação de componentes e compartilhamento no Packgist.
+Componente PHP para uso dos recursos da API ViaCEP. Projeto criado também para estudos de criação de componentes PHP e compartilhamento no Packgist.
 
 ## Utilização
 Segue abaixo alguns exemplos de utilização, se preferir, consulte a pasta **app/test**
