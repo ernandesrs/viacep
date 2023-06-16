@@ -31,9 +31,10 @@ print_r($cep);
 
 ### Obter um CEP
 Todos os valores(UF, Cidade, Logradouro) são validados automaticamente, **null** será retornado caso qualquer um deles sejam inválidos.
-    UF: deve possuir 2 caracteres apenas;
-    Cidade: deve possuir no mínimo 3 caracteres e
-    Logradouro: deve possuir no mínimo 3 caracteres
+
+    **UF**: deve possuir 2 caracteres apenas;
+    **Cidade**: deve possuir no mínimo 3 caracteres e
+    **Logradouro**: deve possuir no mínimo 3 caracteres
 
 ```php
 <?php
